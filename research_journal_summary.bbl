@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Pan et~al.(2024)Pan, Ganeshan, Iadecola, Wilson, and Pixley]{Pan_2024}
+Haining Pan, Sriram Ganeshan, Thomas Iadecola, Justin~H. Wilson, and J.~H. Pixley.
+\newblock Local and nonlocal stochastic control of quantum chaos: Measurement- and control-induced criticality.
+\newblock \emph{Physical Review B}, 110\penalty0 (5), August 2024.
+\newblock ISSN 2469-9969.
+\newblock \doi{10.1103/physrevb.110.054308}.
+\newblock URL \url{http://dx.doi.org/10.1103/PhysRevB.110.054308}.
+
+\end{thebibliography}
